@@ -1,16 +1,19 @@
-### Hi there 👋
+Skills:
 
-<!--
-**NovikovIlya/NovikovIlya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,figma,git,react,redux,vue)](https://skillicons.dev)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Activity:
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NovikovIlya)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=privetzdravstvyi)](https://github.com/ignacio-cuadra/github-readme-codewars)
